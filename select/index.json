@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Original Love & Ovall - 接吻",
+  "base_artist": "Original Love & Ovall",
+  "createdAt": "2026-02-09T07:14:49.302260Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Original Love",
+      "artist": "The Feelies",
+      "has_synced": true,
+      "path": "select/01_Original_Love_The_Feelies.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Original Love",
+      "artist": "Cassadee Pope",
+      "has_synced": false,
+      "path": "select/02_Original_Love_Cassadee_Pope.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Original Love",
+      "artist": "Christafari feat. Dillavou",
+      "has_synced": true,
+      "path": "select/03_Original_Love_Christafari_feat._Dillavou.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Original Love",
+      "artist": "Christafari",
+      "has_synced": true,
+      "path": "select/04_Original_Love_Christafari.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Original Love",
+      "artist": "Feelies, The",
+      "has_synced": true,
+      "path": "select/05_Original_Love_Feelies,_The.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Original Love (feat. Dillavou & Avion Blackman)",
+      "artist": "Christafari",
+      "has_synced": true,
+      "path": "select/06_Original_Love_(feat._Dillavou_&_Avion_Blackman)_Christafari.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Original Love",
+      "artist": "The Feelies",
+      "has_synced": true,
+      "path": "select/07_Original_Love_The_Feelies.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "接吻",
+      "artist": "Original Love & Ovall",
+      "has_synced": false,
+      "path": "select/pl_01_接吻_Original_Love_&_Ovall.txt"
+    }
+  ]
+}
